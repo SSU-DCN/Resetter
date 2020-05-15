@@ -9,7 +9,7 @@
 <li>Python3</li>
 <li>psutil</li>
 <li>bs4</li>
-<li>PyQt5(so you need gui or x11 forwarding</li>
+<li>PyQt5(so you need gui or x11 forwarding)</li>
 </ul>
 
 <h2>How to use</h2>
@@ -19,10 +19,12 @@
 
 <h4>Execute</h4>
 - Run Restter.py and click Custom Reset
+
 <code>sudo ./Resetter.py</code>
 
 <h4>effected path</h4>
 - Below paths will be effected during custom reset
+
 <ul>
 <li>/etc/ (recreate)</li>
 <li>/var/lib/ (recreate)</li>
