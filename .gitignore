@@ -1,0 +1,6 @@
+resetter/data/*
+!resetter/data/icons/*
+!resetter/data/manifests/*
+!resetter/data/scripts/*
+!resetter/data/userlists/*
+!resetter/data/tars/*
